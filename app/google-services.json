@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561687614482",
+    "firebase_url": "https://system-d-incendie.firebaseio.com",
+    "project_id": "system-d-incendie",
+    "storage_bucket": "system-d-incendie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561687614482:android:f970ac42a2afe806",
+        "android_client_info": {
+          "package_name": "com.example.dell.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561687614482-du8n4dfds2j3t50f19mfb97rdkru1bnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjbm201UCrqfE_jIpqCuGSWZTDxq8Ik8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561687614482-du8n4dfds2j3t50f19mfb97rdkru1bnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
